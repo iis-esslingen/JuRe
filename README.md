@@ -15,8 +15,8 @@
 
 ---
 
-[![arXiv](https://img.shields.io/badge/arXiv-2603.12916-b31b1b.svg?style=plastic)]()
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)]()
+[![arXiv](https://img.shields.io/badge/arXiv-2604.17388-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2604.17388)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/papers/2604.17388)
 
 </div>
 
